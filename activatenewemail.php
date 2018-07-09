@@ -12,7 +12,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>New Email Activation</title>
-        <link href="css/bootstrap/bootstrap.css" rel="stylesheet">
+        <link href="bootstrap.css" rel="stylesheet">
         <style>
             h1{
                 color:purple;   
