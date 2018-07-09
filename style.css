@@ -2,7 +2,7 @@
 
 body{
 
-  background: url("image/image.png") no-repeat center center;
+  background: url("image.png") no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   font-family: 'Arvo', serif;
