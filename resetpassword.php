@@ -13,7 +13,7 @@ This form displays a form to input new password -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Password reset</title>
-        <link href="css/bootstrap/bootstrap.css" rel="stylesheet">
+        <link href="bootstrap.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
         <style>
         	body{
