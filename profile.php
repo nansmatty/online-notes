@@ -42,7 +42,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Profile</title>
-    <link href="css/bootstrap/bootstrap.css" rel="stylesheet">
+    <link href="bootstrap.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
     <style type="text/css">
@@ -224,8 +224,8 @@
       </div>
     </div>
 
-    <script src="js/jquery-3.3.1.min.js"></script>
-    <script src="js/bootstrap.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="bootstrap.js"></script>
     <script src="updateProfile.js"></script>
   </body>
 </html>
